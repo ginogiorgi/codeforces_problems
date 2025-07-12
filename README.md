@@ -1,4 +1,4 @@
-# codeforces_problems
+# Codeforces Problems
 Problems solver from the Codeforces website https://codeforces.com/
 
 ## Status
